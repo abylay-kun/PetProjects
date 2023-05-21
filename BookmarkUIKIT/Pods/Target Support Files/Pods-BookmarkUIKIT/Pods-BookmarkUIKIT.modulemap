@@ -1,0 +1,6 @@
+framework module Pods_BookmarkUIKIT {
+  umbrella header "Pods-BookmarkUIKIT-umbrella.h"
+
+  export *
+  module * { export * }
+}
