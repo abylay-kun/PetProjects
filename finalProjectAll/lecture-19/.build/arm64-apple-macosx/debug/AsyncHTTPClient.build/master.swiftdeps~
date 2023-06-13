@@ -1,0 +1,107 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "fb17cd0a87012ec513baa88ece4c116002bf5c409baac46dee21772f43bf49c3"
+build_start_time: [1685909305, 194446086]
+build_end_time: [1685909307, 801067829]
+inputs:
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AnyAsyncSequence.swift"
+  : [1685909264, 427788257]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AnyAsyncSequenceProucerDelete.swift"
+  : [1685909264, 428001403]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AsyncLazySequence.swift"
+  : [1685909264, 428082227]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+execute.swift"
+  : [1685909264, 428163528]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+shutdown.swift"
+  : [1685909264, 428547143]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest+Prepared.swift"
+  : [1685909264, 428712368]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest.swift"
+  : [1685909264, 428792953]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientResponse.swift"
+  : [1685909264, 428863048]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/SingleIteratorPrecondition.swift"
+  : [1685909264, 428925514]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction+StateMachine.swift"
+  : [1685909264, 429224491]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction.swift": [1685909264, 429335594]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Base64.swift": [1685909264, 429406166]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/BestEffortHashableTLSConfiguration.swift"
+  : [1685909264, 429469347]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool.swift": [1685909264, 429543495]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler.swift"
+  : [1685909264, 429709434]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/SOCKSEventsHandler.swift"
+  : [1685909264, 429795026]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/TLSEventsHandler.swift"
+  : [1685909264, 429862976]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ClientChannelHandler.swift"
+  : [1685909264, 430060625]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1Connection.swift"
+  : [1685909264, 430175781]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine.swift"
+  : [1685909264, 430353164]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2ClientRequestHandler.swift"
+  : [1685909264, 430464744]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2Connection.swift"
+  : [1685909264, 430519104]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2IdleHandler.swift"
+  : [1685909264, 430596828]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionEvent.swift"
+  : [1685909264, 430666446]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Factory.swift"
+  : [1685909264, 430773258]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Manager.swift"
+  : [1685909264, 430863380]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool.swift"
+  : [1685909264, 431137561]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPExecutableRequest.swift"
+  : [1685909264, 431250095]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine+Demand.swift"
+  : [1685909264, 431421041]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine.swift"
+  : [1685909264, 431511878]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestBodyLength.swift"
+  : [1685909264, 431606292]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestFramingMetadata.swift"
+  : [1685909264, 431688547]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestOptions.swift"
+  : [1685909264, 431749105]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+Backoff.swift"
+  : [1685909264, 432034492]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections.swift"
+  : [1685909264, 432172298]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine.swift"
+  : [1685909264, 432301521]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections.swift"
+  : [1685909264, 432534694]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine.swift"
+  : [1685909264, 432708978]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue.swift"
+  : [1685909264, 432812690]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine.swift"
+  : [1685909264, 432898998]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionTarget.swift": [1685909264, 432982206]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/DeconstructedURL.swift": [1685909264, 433048009]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FileDownloadDelegate.swift": [1685909264, 433215618]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FoundationExtensions.swift": [1685909264, 433282852]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+HTTPCookie.swift": [1685909264, 433370590]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+Proxy.swift": [1685909264, 433438539]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient.swift": [1685909264, 433659076]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPHandler.swift": [1685909264, 434278488]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/LRUCache.swift": [1685909264, 434378385]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWErrorHandler.swift"
+  : [1685909264, 434519052]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWWaitingHandler.swift"
+  : [1685909264, 434649944]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/TLSConfiguration.swift"
+  : [1685909264, 434751987]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RedirectState.swift": [1685909264, 434834480]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag+StateMachine.swift": [1685909264, 434986591]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag.swift": [1685909264, 435102462]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestValidation.swift": [1685909264, 435217857]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/SSLContextCache.swift": [1685909264, 435295820]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Scheme.swift": [1685909264, 435362339]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/StringConvertibleInstances.swift"
+  : [1685909264, 435452461]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/UnsafeTransfer.swift": [1685909264, 435561656]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Utils.swift": [1685909264, 435656547]

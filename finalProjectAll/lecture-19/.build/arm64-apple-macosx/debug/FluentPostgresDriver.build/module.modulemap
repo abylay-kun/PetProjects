@@ -1,0 +1,4 @@
+module FluentPostgresDriver {
+    header "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDriver-Swift.h"
+    requires objc
+}

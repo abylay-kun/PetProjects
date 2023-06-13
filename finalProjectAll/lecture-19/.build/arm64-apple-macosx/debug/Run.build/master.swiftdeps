@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "36c3cf9d204fa4c69cd11c09b8853b7d3306b2158094ef270d110e2fed3e06fd"
+build_start_time: [1685909313, 184204101]
+build_end_time: [1685909313, 382477998]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/Run/main.swift": [1643803600, 0]

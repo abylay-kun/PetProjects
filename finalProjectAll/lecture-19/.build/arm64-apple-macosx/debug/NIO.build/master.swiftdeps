@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "203010aafb808cc0e3b55d7e11a9773079ad864daddf962d8ddbe39ae486f988"
+build_start_time: [1685914749, 72299003]
+build_end_time: [1685914749, 157083988]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIO/Exports.swift": [1685909264, 686971187]

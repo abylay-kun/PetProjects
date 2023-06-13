@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "86ad297e0504a02ce4c6b1a2695b4d5012e8240764157244cd15b6b729bb7068"
+build_start_time: [1685914749, 201267004]
+build_end_time: [1685914750, 583346843]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1685909264, 700181961]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1685909264, 700487136]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1685909264, 700624465]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaderValidator.swift": [1685909264, 700722217]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaders+Validation.swift": [1685909264, 700817346]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1685909264, 700932502]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1685909264, 701114654]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1685909264, 701209068]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift": [1685909264, 701350450]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1685909264, 701640129]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift": [1685909264, 701809406]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift": [1685909264, 701925754]

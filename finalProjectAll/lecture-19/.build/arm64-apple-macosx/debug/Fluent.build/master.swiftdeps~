@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "9df6106d73208caccf2ff8d503c74ca56b8987c466132a3a23bd12614037c14f"
+build_start_time: [1685909312, 372191905]
+build_end_time: [1685909312, 739963054]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Concurrency/FluentProvider+Concurrency.swift": [1685909263, 851374626]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Concurrency/ModelCredentialsAuthenticatable+Concurrency.swift"
+  : [1685909263, 851462364]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Concurrency/Pagination+Concurrency.swift": [1685909263, 851539373]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Concurrency/Sessions+Concurrency.swift": [1685909263, 851602554]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Exports.swift": [1685909263, 851768970]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Fluent+Cache.swift": [1685909263, 851862430]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Fluent+History.swift": [1685909263, 851944208]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Fluent+Paginate.swift": [1685909263, 852020263]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Fluent+Pagination.swift": [1685909263, 852104663]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/Fluent+Sessions.swift": [1685909263, 852183580]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/FluentProvider.swift": [1685909263, 852267265]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/MigrateCommand.swift": [1685909263, 852335453]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/ModelAuthenticatable.swift": [1685909263, 852420330]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/ModelCredentialsAuthenticatable.swift": [1685909263, 852480649]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/ModelTokenAuthenticatable.swift": [1685909263, 852566242]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent/Sources/Fluent/PageLimit.swift": [1685909263, 852633953]

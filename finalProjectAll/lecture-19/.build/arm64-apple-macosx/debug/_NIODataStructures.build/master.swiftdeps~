@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "9c4983c54a2d71f44317f7d3bbbd1e927e04326051d4fb5ebc8eb3073030d4e8"
+build_start_time: [1685909276, 69508075]
+build_end_time: [1685909278, 623095035]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/_NIODataStructures/Heap.swift": [1685909264, 713360786]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/_NIODataStructures/PriorityQueue.swift": [1685909264, 713427305]

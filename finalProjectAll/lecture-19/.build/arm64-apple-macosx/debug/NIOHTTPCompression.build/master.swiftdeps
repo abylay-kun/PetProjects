@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "8985aa483676f7dfdca1892d16ed31d7b3a44f6360e7cd0571e9069d6c4ae6fd"
+build_start_time: [1685914751, 164517879]
+build_end_time: [1685914751, 880776882]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPCompression.swift": [1685909265, 330998897]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPDecompression.swift": [1685909265, 331073999]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestCompressor.swift": [1685909265, 331153392]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestDecompressor.swift"
+  : [1685909265, 331249952]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseCompressor.swift"
+  : [1685909265, 331341743]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseDecompressor.swift"
+  : [1685909265, 331418037]

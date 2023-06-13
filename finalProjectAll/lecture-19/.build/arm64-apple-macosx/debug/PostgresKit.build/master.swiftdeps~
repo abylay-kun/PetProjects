@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "fcf10759ee502eaa23c3cf39505910daa652e475da123a034fd64eabf1e5402f"
+build_start_time: [1685909308, 531021118]
+build_end_time: [1685909309, 506649017]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/ConnectionPool+Postgres.swift": [1685909265, 559449672]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresColumnType.swift": [1685909265, 559610843]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConfiguration.swift"
+  : [1685909265, 559688329]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresConnectionSource+PostgresConfiguration.swift"
+  : [1685909265, 559754371]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataDecoder.swift": [1685909265, 559834957]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataEncoder.swift": [1685909265, 559975624]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDatabase+SQL+Deprecated.swift"
+  : [1685909265, 560039281]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/Exports.swift": [1685909265, 560194969]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConnectionSource.swift": [1685909265, 560283184]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataTranslation.swift": [1685909265, 560356616]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDatabase+SQL.swift": [1685909265, 560466766]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDialect.swift": [1685909265, 560546159]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresRow+SQL.swift": [1685909265, 560606479]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/postgres-kit/Sources/PostgresKit/SQLPostgresConfiguration.swift": [1685909265, 560684442]

@@ -1,0 +1,4 @@
+module NIOTLS {
+    header "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/NIOTLS.build/NIOTLS-Swift.h"
+    requires objc
+}

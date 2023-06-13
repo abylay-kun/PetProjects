@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "bc3fa2fc5bf044123a67d7a08b160e42d46f77898e528c02434da8dd04c7a6fb"
+build_start_time: [1685909290, 503898143]
+build_end_time: [1685909291, 383234024]
+inputs:
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSClientHandler.swift"
+  : [1685909265, 333606719]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSServerHandshakeHandler.swift"
+  : [1685909265, 333690881]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/AuthenticationMethod.swift": [1685909265, 333922863]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/ClientGreeting.swift": [1685909265, 333998203]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Errors.swift": [1685909265, 334072351]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Helpers.swift": [1685909265, 334131717]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Messages.swift": [1685909265, 334198474]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSRequest.swift": [1685909265, 334285259]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSResponse.swift": [1685909265, 334351062]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SelectedAuthenticationMethod.swift"
+  : [1685909265, 334410190]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ClientStateMachine.swift": [1685909265, 334516525]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ServerStateMachine.swift": [1685909265, 334570407]

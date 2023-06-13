@@ -1,0 +1,4 @@
+module Algorithms {
+    header "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/Algorithms.build/Algorithms-Swift.h"
+    requires objc
+}

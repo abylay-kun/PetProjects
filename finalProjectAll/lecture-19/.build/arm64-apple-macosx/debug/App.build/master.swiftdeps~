@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c079451adafd865e312837d1874c3e4769af4c46dbe2d7a3601b6878a1882f0a"
+build_start_time: [1685909312, 781779050]
+build_end_time: [1685909313, 144974946]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/App/Controllers/UserController.swift": [1643811536, 0]
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/App/Errors/UserErrors.swift": [1643803598, 0]
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/App/Migrations/CreateTokens.swift": [1643804574, 0]
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/App/Migrations/CreateUsers.swift": [1643804574, 0]
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/App/Models/Token.swift": [1643810792, 0]
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/App/Models/User.swift": [1643810776, 0]
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/App/configure.swift": [1643804574, 0]
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/App/routes.swift": [1643810920, 0]

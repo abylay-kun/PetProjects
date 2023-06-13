@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "af6607715f6a0f375f906c359a48fb12d094d8add50d2aed183f5204f96e6f3b"
+build_start_time: [1685914744, 985980987]
+build_end_time: [1685914745, 400178909]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift": [1685909265, 801762104]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift": [1685909265, 802028179]

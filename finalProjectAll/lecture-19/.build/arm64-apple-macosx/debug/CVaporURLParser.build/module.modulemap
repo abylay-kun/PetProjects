@@ -1,0 +1,4 @@
+module CVaporURLParser {
+    umbrella "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/vapor/Sources/CVaporURLParser/include"
+    export *
+}

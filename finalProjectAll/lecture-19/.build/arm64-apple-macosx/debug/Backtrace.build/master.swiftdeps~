@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c97201271393e826c8e9f71fe5f302740125d5b6af3b91b156a29fc21a4175a9"
+build_start_time: [1685909286, 631154060]
+build_end_time: [1685909286, 669519901]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-backtrace/Sources/Backtrace/Backtrace.swift": [1685909262, 609962463]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-backtrace/Sources/Backtrace/Demangle.swift": [1685909262, 610037803]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c67e61b34f72d6390dddcaa3f065623b8c4e3d57e8d4900a7b3de314cfa1b43a"
+build_start_time: [1685914745, 840010166]
+build_end_time: [1685914745, 899420022]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/Collections/Collections.swift": [1685909264, 909840583]

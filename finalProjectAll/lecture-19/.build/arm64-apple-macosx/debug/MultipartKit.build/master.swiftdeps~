@@ -1,0 +1,35 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2915cb3897fcc0f8b519e8271adfa0f0db410eb3e85b763b3281194695179fcf"
+build_start_time: [1685909293, 39349079]
+build_end_time: [1685909293, 871268987]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/BasicCodingKey.swift": [1685909263, 407536506]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/Deprecated/MultipartError.swift": [1685909263, 407649278]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/Exports.swift": [1685909263, 407826423]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.Decoder.swift"
+  : [1685909263, 407945156]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.KeyedContainer.swift"
+  : [1685909263, 408085584]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.SingleValueContainer.swift"
+  : [1685909263, 408179283]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.UnkeyedContainer.swift"
+  : [1685909263, 408275604]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.swift"
+  : [1685909263, 408358097]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.Encoder.swift"
+  : [1685909263, 408511400]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.KeyedContainer.swift"
+  : [1685909263, 408581733]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.SingleValueContainer.swift"
+  : [1685909263, 408646583]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.UnkeyedContainer.swift"
+  : [1685909263, 408730030]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.swift"
+  : [1685909263, 408805370]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/Storage.swift": [1685909263, 408867835]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartFormData.swift": [1685909263, 408975601]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartParser.swift": [1685909263, 409089565]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPart.swift": [1685909263, 409167766]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPartConvertible.swift": [1685909263, 409260272]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartSerializer.swift": [1685909263, 409331083]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/multipart-kit/Sources/MultipartKit/Utilities.swift": [1685909263, 409418106]

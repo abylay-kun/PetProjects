@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c75c059979d4eed982c2aaef44e19a9413f937ec390d51b94904ba77663d43dc"
+build_start_time: [1685909290, 505594968]
+build_end_time: [1685909291, 340759038]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1685909264, 710935592]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOTLS/NIOTypedApplicationProtocolNegotiationHandler.swift"
+  : [1685909264, 710992336]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOTLS/ProtocolNegotiationHandlerStateMachine.swift": [1685909264, 711061954]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1685909264, 711177587]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1685909264, 711255073]

@@ -1,0 +1,30 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2bbe907a8c55f4fd805ec111a5970382ca79bce653ee891ac794dbb6d50a73a5"
+build_start_time: [1685914749, 745949029]
+build_end_time: [1685914754, 20163059]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolError.swift": [1685909264, 556086540]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolItem.swift": [1685909264, 556159019]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolSource.swift": [1685909264, 556221008]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopConnectionPool.swift": [1685909264, 556353092]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopGroupConnectionPool.swift"
+  : [1685909264, 556413888]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Concurrency.swift": [1685909264, 556623458]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Flatten.swift": [1685909264, 556824684]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Future.swift": [1685909264, 556887865]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoopGroup+Concurrency.swift": [1685909264, 556943893]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoopGroup+Throwing.swift": [1685909264, 557010173]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Collection+Flatten.swift": [1685909264, 557113647]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue+Sequence.swift"
+  : [1685909264, 557186126]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue.swift": [1685909264, 557265043]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Collection.swift": [1685909264, 557373762]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Conjunctions.swift": [1685909264, 557516574]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Miscellaneous.swift": [1685909264, 557607173]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Nonempty.swift": [1685909264, 557672023]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Optional.swift": [1685909264, 557737827]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Transform.swift": [1685909264, 557795286]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Try.swift": [1685909264, 557861566]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/FutureOperators.swift": [1685909264, 557937145]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Optional+StrictMap.swift": [1685909264, 558006763]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/async-kit/Sources/AsyncKit/Exports.swift": [1685909264, 558072566]

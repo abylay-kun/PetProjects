@@ -1,0 +1,4 @@
+module FluentKit {
+    header "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/FluentKit.build/FluentKit-Swift.h"
+    requires objc
+}

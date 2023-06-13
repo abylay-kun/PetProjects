@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "000c6964a50d6260bf91a63afa5164a36bc7e209713be5da313dabeb32c9e32b"
+build_start_time: [1685914744, 258394002]
+build_end_time: [1685914745, 269562959]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift": [1685909264, 688117504]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLock.swift": [1685909264, 688225269]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLockedValueBox.swift": [1685909264, 688303470]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1685909264, 688433647]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1685909264, 688547134]

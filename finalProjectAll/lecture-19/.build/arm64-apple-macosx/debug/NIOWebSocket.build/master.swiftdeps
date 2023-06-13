@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "503e765772f8da21458e60d3e7842964f2db129a42ae420372b673c8814221ee"
+build_start_time: [1685914750, 648358821]
+build_end_time: [1685914751, 91544151]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": [1685909264, 712040662]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketClientUpgrader.swift": [1685909264, 712112188]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketFrameAggregator.swift": [1685909264, 712182998]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketServerUpgrader.swift": [1685909264, 712281465]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [1685909264, 712358474]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1685909264, 712432861]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": [1685909264, 712528705]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1685909264, 712616682]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1685909264, 712696313]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": [1685909264, 712770462]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1685909264, 712833881]

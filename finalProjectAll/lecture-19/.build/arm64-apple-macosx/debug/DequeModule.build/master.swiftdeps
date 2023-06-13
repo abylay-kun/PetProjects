@@ -1,0 +1,28 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "84cc4710b6814687a7fce16078d696c07aa064dbda77a04530bc08dee668d0c2"
+build_start_time: [1685914744, 272428989]
+build_end_time: [1685914745, 251693010]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Compatibility.swift": [1685909264, 910158157]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift": [1685909264, 910235166]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift": [1685909264, 910416126]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomDebugStringConvertible.swift"
+  : [1685909264, 910500049]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift": [1685909264, 910719394]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomStringConvertible.swift"
+  : [1685909264, 910775423]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift": [1685909264, 911040544]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift"
+  : [1685909264, 911126613]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift": [1685909264, 911210536]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift": [1685909264, 911301136]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift": [1685909264, 911378383]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift": [1685909264, 911462306]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift": [1685909264, 911585330]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/Deque.swift": [1685909264, 911693334]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/UnsafeMutableBufferPointer+Utilities.swift"
+  : [1685909264, 911958217]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift": [1685909264, 912044048]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift": [1685909264, 912118911]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift": [1685909264, 912181138]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift": [1685909264, 912253618]

@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella header "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+    export *
+}

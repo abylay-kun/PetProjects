@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "9442e036752828d10f0eaaccc2f33438014ed01251251bca9038acc1cdccfb62"
+build_start_time: [1685909291, 998797893]
+build_end_time: [1685909293, 272451877]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift": [1685909265, 54558277]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift": [1685909265, 54646253]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift": [1685909265, 54755687]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift": [1685909265, 54837226]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift": [1685909265, 54998874]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift": [1685909265, 55243968]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift": [1685909265, 55342912]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift": [1685909265, 55844783]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift": [1685909265, 55952548]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift": [1685909265, 56038856]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift": [1685909265, 56104898]

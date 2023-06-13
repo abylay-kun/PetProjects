@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "55ad040ae1c8b14bdcbfdf071f02c0b40f0123eabf7924e5e5a1944420022b8e"
+build_start_time: [1685909289, 439839839]
+build_end_time: [1685909289, 813067913]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingChannel.swift": [1685909264, 699337959]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingEventLoop.swift": [1685909264, 699481964]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/NIOEmbedded/Embedded.swift": [1685909264, 699710845]

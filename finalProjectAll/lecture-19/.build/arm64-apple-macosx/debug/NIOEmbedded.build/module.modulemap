@@ -1,0 +1,4 @@
+module NIOEmbedded {
+    header "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/NIOEmbedded.build/NIOEmbedded-Swift.h"
+    requires objc
+}

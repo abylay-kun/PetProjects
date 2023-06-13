@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6ceb0595c5339aecbe638c07d3959a6b8c5fbea863227a04ebde0ba4c7650788"
+build_start_time: [1685909296, 637359142]
+build_end_time: [1685909296, 921944141]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseQuery+SQL.swift": [1685909265, 683027029]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseSchema+SQL.swift": [1685909265, 683093070]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/Exports.swift": [1685909265, 683247804]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model+Concurrency.swift": [1685909265, 683311939]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model.swift": [1685909265, 683383941]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLJSONColumnPath.swift": [1685909265, 683449745]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLList+Deprecated.swift": [1685909265, 683517932]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQualifiedTable.swift": [1685909265, 683582305]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQueryConverter.swift": [1685909265, 683727264]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLSchemaConverter.swift": [1685909265, 683827400]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-kit/Sources/FluentSQL/Utilities.swift": [1685909265, 683893680]

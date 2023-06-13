@@ -1,0 +1,4 @@
+module DequeModule {
+    header "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/DequeModule.build/DequeModule-Swift.h"
+    requires objc
+}

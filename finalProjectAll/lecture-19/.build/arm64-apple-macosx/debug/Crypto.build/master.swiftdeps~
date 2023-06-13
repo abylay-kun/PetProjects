@@ -1,0 +1,85 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ba66812e543a36c8135b294b3d5ac1d02f9cb48c12197b4f133e1fa92a06f62a"
+build_start_time: [1685909276, 820263862]
+build_end_time: [1685909282, 346382141]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/AES-GCM.swift": [1685909264, 191961765]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/BoringSSL/AES-GCM_boring.swift"
+  : [1685909264, 192088127]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/BoringSSL/ChaChaPoly_boring.swift"
+  : [1685909264, 192229986]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/ChaChaPoly.swift": [1685909264, 192282438]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Cipher.swift": [1685909264, 192354917]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Nonces.swift": [1685909264, 192423582]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ASN1.swift": [1685909264, 192687511]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Any.swift": [1685909264, 192815780]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1BitString.swift": [1685909264, 192937850]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Boolean.swift": [1685909264, 193020343]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Identifier.swift": [1685909264, 193115472]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Integer.swift": [1685909264, 193212747]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Null.swift": [1685909264, 193275451]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1OctetString.swift": [1685909264, 193336009]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Strings.swift": [1685909264, 193401336]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ArraySliceBigint.swift"
+  : [1685909264, 193482398]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/GeneralizedTime.swift": [1685909264, 193581581]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ObjectIdentifier.swift"
+  : [1685909264, 193648099]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ECDSASignature.swift": [1685909264, 193743705]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PEMDocument.swift": [1685909264, 193839073]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PKCS8PrivateKey.swift": [1685909264, 193929672]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SEC1PrivateKey.swift": [1685909264, 193997383]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SubjectPublicKeyInfo.swift": [1685909264, 194074153]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/CryptoKitErrors.swift": [1685909264, 194242954]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Digests/BoringSSL/Digest_boring.swift": [1685909264, 194417715]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digest.swift": [1685909264, 194482803]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digests.swift": [1685909264, 194564819]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions.swift": [1685909264, 194723606]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions_SHA2.swift": [1685909264, 194816589]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure.swift": [1685909264, 194951057]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure_HashFunctions.swift": [1685909264, 195029258]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/BoringSSL/ECDH_boring.swift": [1685909264, 195213794]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/DH.swift": [1685909264, 195321559]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/ECDH.swift": [1685909264, 195441246]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Key Derivation/HKDF.swift": [1685909264, 195725440]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/AESWrap.swift": [1685909264, 195856094]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/BoringSSL/AESWrap_boring.swift": [1685909264, 195990562]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/Ed25519_boring.swift": [1685909264, 196246623]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurvePoint_boring.swift"
+  : [1685909264, 196378707]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurve_boring.swift"
+  : [1685909264, 196456670]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/NISTCurvesKeys_boring.swift"
+  : [1685909264, 196588993]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/X25519Keys_boring.swift": [1685909264, 196688175]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Curve25519.swift": [1685909264, 196774005]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Ed25519.swift": [1685909264, 196870326]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/NISTCurvesKeys.swift": [1685909264, 196940898]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/X25519Keys.swift": [1685909264, 197016716]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Keys/Symmetric/SymmetricKeys.swift": [1685909264, 197135210]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/HMAC/HMAC.swift"
+  : [1685909264, 197292566]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MACFunctions.swift"
+  : [1685909264, 197357416]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MessageAuthenticationCode.swift"
+  : [1685909264, 197423934]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/PRF/AES.swift": [1685909264, 197532653]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSASignature_boring.swift"
+  : [1685909264, 197693347]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSA_boring.swift": [1685909264, 197780132]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/EdDSA_boring.swift": [1685909264, 197840213]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/ECDSA.swift": [1685909264, 197937011]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/EdDSA.swift": [1685909264, 198094129]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/Signature.swift": [1685909264, 198160648]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/ArbitraryPrecisionInteger_boring.swift"
+  : [1685909264, 198359012]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/CryptoKitErrors_boring.swift": [1685909264, 198459148]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/FiniteFieldArithmeticContext_boring.swift"
+  : [1685909264, 198720932]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/RNG_boring.swift": [1685909264, 198837757]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/SafeCompare_boring.swift": [1685909264, 198915481]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/Zeroization_boring.swift": [1685909264, 198977470]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/PrettyBytes.swift": [1685909264, 199043750]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/SafeCompare.swift": [1685909264, 199098110]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/SecureBytes.swift": [1685909264, 199166297]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-crypto/Sources/Crypto/Util/Zeroization.swift": [1685909264, 199236154]

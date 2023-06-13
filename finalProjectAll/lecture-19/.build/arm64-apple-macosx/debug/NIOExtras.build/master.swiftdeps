@@ -1,0 +1,25 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "978c3ed0e99558e665136aad653361f22704d7e35de519cf2aac52b506c485d3"
+build_start_time: [1685914751, 940030097]
+build_end_time: [1685914753, 46885967]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugInboundEventsHandler.swift": [1685909265, 328028202]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugOutboundEventsHandler.swift": [1685909265, 328241825]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/FixedLengthFrameDecoder.swift": [1685909265, 328523159]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/HTTP1ProxyConnectHandler.swift": [1685909265, 328622817]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming+ContentLengthHeader.swift"
+  : [1685909265, 328731536]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming.swift": [1685909265, 328792572]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldBasedFrameDecoder.swift": [1685909265, 328851699]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldPrepender.swift": [1685909265, 328925371]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LineBasedFrameDecoder.swift": [1685909265, 328993320]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/MarkedCircularBuffer+PopFirstCheckMarked.swift"
+  : [1685909265, 329100608]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOExtrasError.swift": [1685909265, 329166412]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOLengthFieldBitLength.swift": [1685909265, 329238653]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIORequestIdentifiable.swift": [1685909265, 329302310]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/PCAPRingBuffer.swift": [1685909265, 329380989]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/QuiescingHelper.swift": [1685909265, 329494953]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/RequestResponseHandler.swift": [1685909265, 329574108]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/RequestResponseWithIDHandler.swift": [1685909265, 329644203]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-extras/Sources/NIOExtras/WritePCAPHandler.swift": [1685909265, 329823493]

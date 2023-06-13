@@ -1,0 +1,4 @@
+module AsyncKit {
+    header "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/AsyncKit.build/AsyncKit-Swift.h"
+    requires objc
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "8dc7514f3c8d0e0369cdb09f6724e6b8dd5cc3ad8d80a066c6870fe1fd1e7e68"
+build_start_time: [1685914745, 593029022]
+build_end_time: [1685914747, 536645889]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": [1685909265, 802285671]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "50bf6167cb0abdd5b2ea1e367bf266d9178a630d798a69bdd0a1c4994895ce88"
+build_start_time: [1685914744, 268532037]
+build_end_time: [1685914745, 175407886]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-log/Sources/Logging/Locks.swift": [1685909266, 6988525]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": [1685909266, 7132053]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-log/Sources/Logging/Logging.swift": [1685909266, 7524967]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-log/Sources/Logging/MetadataProvider.swift": [1685909266, 7620334]

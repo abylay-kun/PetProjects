@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "690d3fd132a7a67ddcdff2bb8ba95d2880c9be90c5b5b532c39be63faa3630dd"
+build_start_time: [1685909309, 610176086]
+build_end_time: [1685909310, 176875114]
+inputs:
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/DatabaseID+PostgreSQL.swift"
+  : [1685909265, 904087066]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/Deprecations/FluentPostgresConfiguration+Deprecated.swift"
+  : [1685909265, 904242992]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/Exports.swift": [1685909265, 904449701]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresConfiguration.swift"
+  : [1685909265, 904536247]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDatabase.swift"
+  : [1685909265, 904644012]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDriver.swift"
+  : [1685909265, 904711961]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresConverterDelegate.swift"
+  : [1685909265, 904785156]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresError+Database.swift"
+  : [1685909265, 904857158]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresRow+Database.swift"
+  : [1685909265, 904929637]

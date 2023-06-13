@@ -1,0 +1,1 @@
+/Applications/Postgres.app/Contents/Versions/15/bin/postgres "-D" "/Users/abylayduzel/Library/Application Support/Postgres/untitled folder" "-p" "5432"

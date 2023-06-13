@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "35d49408ed89176bdbc825b9429592622e7504f8dfa9865536f1c1f4f909b8ee"
+build_start_time: [1685914761, 795106887]
+build_end_time: [1685914762, 662338972]
+inputs:
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/websocket-kit/Sources/WebSocketKit/Concurrency/WebSocket+Concurrency.swift"
+  : [1685909263, 511256456]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": [1685909263, 511423587]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPUpgradeRequestHandler.swift": [1685909263, 511514186]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift": [1685909263, 511636734]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": [1685909263, 511741876]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift": [1685909263, 511813163]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift": [1685909263, 511891126]

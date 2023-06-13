@@ -1,0 +1,99 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "565f9c98f780a7688ba7e41acab14137ee970e6a28cd5e4f2b7766043093bd31"
+build_start_time: [1685909293, 357038974]
+build_end_time: [1685909294, 787931919]
+inputs:
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/ConnectionStateMachine.swift"
+  : [1685909265, 56519031]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/ConnectionStreamsState.swift"
+  : [1685909265, 56641578]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/MayReceiveFrames.swift"
+  : [1685909265, 56918621]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingDataState.swift"
+  : [1685909265, 56990623]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingGoAwayState.swift"
+  : [1685909265, 57059526]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingHeadersState.swift"
+  : [1685909265, 57134628]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingPushPromiseState.swift"
+  : [1685909265, 57214498]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingRstStreamState.swift"
+  : [1685909265, 57282209]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameReceivingStates/ReceivingWindowUpdateState.swift"
+  : [1685909265, 57366371]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/MaySendFrames.swift"
+  : [1685909265, 57460546]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingDataState.swift"
+  : [1685909265, 57520389]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingGoawayState.swift"
+  : [1685909265, 57573795]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingHeadersState.swift"
+  : [1685909265, 57640314]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingPushPromiseState.swift"
+  : [1685909265, 57713985]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingRstStreamState.swift"
+  : [1685909265, 57770729]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/FrameSendingStates/SendingWindowUpdateState.swift"
+  : [1685909265, 57828903]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HTTP2SettingsState.swift"
+  : [1685909265, 57910919]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HasFlowControlWindows.swift"
+  : [1685909265, 57998657]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HasLocalSettings.swift"
+  : [1685909265, 58073520]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/HasRemoteSettings.swift"
+  : [1685909265, 58135509]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/LocallyQuiescingState.swift"
+  : [1685909265, 58222770]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/QuiescingState.swift"
+  : [1685909265, 58292388]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/RemotelyQuiescingState.swift"
+  : [1685909265, 58350563]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/SendAndReceiveGoawayState.swift"
+  : [1685909265, 58409690]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ConnectionStateMachine/StateMachineResult.swift"
+  : [1685909265, 58477878]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/ContentLengthVerifier.swift": [1685909265, 58562755]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/DOSHeuristics.swift": [1685909265, 58626890]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/ConcurrentStreamBuffer.swift"
+  : [1685909265, 58870315]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/ControlFrameBuffer.swift": [1685909265, 58951854]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/OutboundFlowControlBuffer.swift"
+  : [1685909265, 59229850]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/Frame Buffers/OutboundFrameBuffer.swift"
+  : [1685909265, 59355258]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HPACKHeaders+Validation.swift": [1685909265, 59631347]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ChannelHandler+InboundStreamMultiplexer.swift"
+  : [1685909265, 59859275]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ChannelHandler+InlineStreamMultiplexer.swift"
+  : [1685909265, 59943675]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ChannelHandler.swift": [1685909265, 60221672]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2CommonInboundStreamMultiplexer.swift"
+  : [1685909265, 60329198]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ConnectionStateChange.swift": [1685909265, 60426950]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Error.swift": [1685909265, 60744285]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ErrorCode.swift": [1685909265, 60837268]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2FlowControlWindow.swift": [1685909265, 60907125]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Frame.swift": [1685909265, 61009168]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2FrameEncoder.swift": [1685909265, 61190128]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2FrameParser.swift": [1685909265, 61367034]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2PingData.swift": [1685909265, 61454296]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2PipelineHelpers.swift": [1685909265, 61558485]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Settings.swift": [1685909265, 61645030]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2Stream.swift": [1685909265, 61858654]
+  ? "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamChannel+OutboundStreamMultiplexer.swift"
+  : [1685909265, 61932802]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamChannel.swift": [1685909265, 62127113]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamDelegate.swift": [1685909265, 62207937]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamID.swift": [1685909265, 62281131]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2StreamMultiplexer.swift": [1685909265, 62404632]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2ToHTTP1Codec.swift": [1685909265, 62547206]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/HTTP2UserEvents.swift": [1685909265, 62628030]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/InboundEventBuffer.swift": [1685909265, 62700510]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/InboundWindowManager.swift": [1685909265, 62788963]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/MultiplexerAbstractChannel.swift": [1685909265, 62871217]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamChannelFlowController.swift": [1685909265, 62939167]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamChannelList.swift": [1685909265, 63003301]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamMap.swift": [1685909265, 63091278]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/StreamStateMachine.swift": [1685909265, 63333272]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio-http2/Sources/NIOHTTP2/WatermarkedFlowController.swift": [1685909265, 63432931]

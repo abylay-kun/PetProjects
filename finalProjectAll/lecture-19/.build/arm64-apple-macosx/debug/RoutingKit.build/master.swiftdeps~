@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2a97cae5fa4c898a053af28994e5854df054969adedefd2a0e937607f934a2bc"
+build_start_time: [1685909279, 306751966]
+build_end_time: [1685909282, 26895046]
+inputs:
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/routing-kit/Sources/RoutingKit/AnyRouter.swift": [1685909265, 456529140]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift": [1685909265, 456730365]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift": [1685909265, 456804275]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift": [1685909265, 456989765]
+  "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift": [1685909265, 457096576]

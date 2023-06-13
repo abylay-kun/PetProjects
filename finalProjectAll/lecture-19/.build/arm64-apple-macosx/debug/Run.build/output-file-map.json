@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/abylayduzel/Downloads/lecture-19/Sources/Run/main.swift": {
+    "dependencies": "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/crypto/cipher_extra/cipher_extra.c \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/module.modulemap \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_cipher.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_base.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_is_boringssl.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_opensslconf.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_boringssl_prefix_symbols.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/assert.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_err.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_mem.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_nid.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/crypto/cipher_extra/internal.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/crypto/cipher_extra/../internal.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_crypto.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_sha.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_thread.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_ex_data.h \
+  /Users/abylayduzel/Desktop/lecture-19/.build/checkouts/swift-nio-ssl/Sources/CNIOBoringSSL/include/CNIOBoringSSL_stack.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include/stdalign.h

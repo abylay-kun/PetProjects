@@ -1,0 +1,4 @@
+module Backtrace {
+    header "/Users/abylayduzel/Downloads/lecture-19/.build/arm64-apple-macosx/debug/Backtrace.build/Backtrace-Swift.h"
+    requires objc
+}

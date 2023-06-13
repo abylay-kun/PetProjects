@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/abylayduzel/Downloads/lecture-19/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}
