@@ -18,18 +18,18 @@ struct SignIn: View {
             SneakerCollection()
         }
         else{
-            mainLoginPage(userNameAuth: "", userPasswordAuth: "", userLoggedIn: $userLoggedIn)
+            mainLoginPage(userLoggedIn: $userLoggedIn)
         }
        
     }
 }
 
 struct mainLoginPage:View{
-    @State var userNameAuth:String
-    @State var userPasswordAuth:String
+    @State var userNameAuth:String = ""
+    @State var userPasswordAuth:String = ""
     @Binding var userLoggedIn:Bool
+    @State var newText = ""
     var body: some View{
-        
             VStack{
                 TextField("user name", text: $userNameAuth)
                     .autocapitalization(.none)
@@ -54,7 +54,10 @@ struct mainLoginPage:View{
                         .fontWeight(.bold)
                     
                 }.onTapGesture {
-                    getNameAndPasswordFromDb(userNameAuth: userNameAuth, userPasswordAuth: userPasswordAuth)
+                    getNameAndPasswordFromDb(userNameAuth: userNameAuth, userPasswordAuth: userPasswordAuth){ (returnedData) in
+                        userLoggedIn = returnedData
+                        
+                    }
                     
                 }.padding(.bottom, 20)
             }.padding(.top, 64)
@@ -63,7 +66,7 @@ struct mainLoginPage:View{
     }
 }
 
-func getNameAndPasswordFromDb(userNameAuth:String, userPasswordAuth:String){
+func getNameAndPasswordFromDb(userNameAuth:String, userPasswordAuth:String,  completionHandler: @escaping (_ data: Bool) -> Void){
     @Binding var userLoggedIn:Bool
     guard let url = URL(string: "http://127.0.0.1:8080/users/login") else {return}
 
@@ -87,13 +90,18 @@ func getNameAndPasswordFromDb(userNameAuth:String, userPasswordAuth:String){
             }
             if let data = data{
                 let jsonObject = try JSONSerialization.jsonObject(with: data, options: []) as? [String:Any]
+                let user = jsonObject?["user"] as? [String:Any]
+                
+                // name, id, token
+                let userId = user?["id"] as? String
+                let userName = user?["username"] as? String
                 let token = jsonObject?["token"] as? String
-               
+                
                 let defaults = UserDefaults.standard
-                defaults.set(token, forKey: "userToken")
-               
-//                let age = defaults.object(forKey: "Age") as? String
-//                print(age)
+                defaults.set(token, forKey: "\(userId), \(userName)")
+                completionHandler(true)
+                print(token)
+
                 
             }
         }
